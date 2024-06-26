@@ -1,0 +1,11 @@
+mongodbServiceName: mongodb-service
+
+mongoExpress: mongo-express
+
+mongodbSecret: mongodb-secret
+
+mongoName: mongodb
+
+mongoDbAdminUsenameEnv: ME_CONFIG_MONGODB_ADMINUSERNAME
+
+mongoDbAdminPasswordEnv: ME_CONFIG_MONGODB_ADMINPASSWORD
